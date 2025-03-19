@@ -1,0 +1,7 @@
+---
+description: GitHubのMCPサーバー利用時
+globs: 
+alwaysApply: false
+---
+- GitHubのownerはtropicbirdです。
+- 操作するレポジトリ名はmcp-demo-cursorです。
